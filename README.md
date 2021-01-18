@@ -27,10 +27,11 @@
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-dghaies&show_icons=true&locale=en&layout=compact" alt="ahmed-dghaies" /></p>
 
-<p>&nbsp;<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmed-dghaies&show_icons=true&theme=dark&locale=en" alt="ahmed-dghaies" /></p>
+<p>&nbsp;<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmed-dghaies&show_icons=true&theme=dark&locale=en" alt="ahmed-dghaies" /></p>
 </div>
-<div align="center">
 
+
+<div align="center">
 <p><img align="center" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dghaies&theme=dark" alt="ahmed-dghaies" /></p>
 </div>
 
