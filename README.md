@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dghaies&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dghaies" /> </p>
 
-- 🔭 I’m currently working on [Code-Analyzer, Cynoia platform](https://github.com/Ahmed-Dghaies/Code-Analyzer)
+- 🔭 I’m currently working on Cynoia platform, [Code-Analyzer](https://github.com/Ahmed-Dghaies/Code-Analyzer)
 
 - 🌱 I’m currently learning **Django, React**
 
-- 👯 I’m looking to collaborate on [Code-Analyzer, Age-gender-ethnicity-realtime-Predictor](https://github.com/Ahmed-Dghaies/Age-gender-ethnicity-realtime-Predictor)
+- 👯 I’m looking to collaborate on [Code-Analyzer](https://github.com/Ahmed-Dghaies/Code-Analyzer),[Age-gender-ethnicity-realtime-Predictor](https://github.com/Ahmed-Dghaies/Age-gender-ethnicity-realtime-Predictor)
 
 - 🤝 I’m looking for help with [Age-gender-ethnicity-realtime-Predictor](https://github.com/Ahmed-Dghaies/Age-gender-ethnicity-realtime-Predictor)
 
@@ -29,9 +29,9 @@
 
 <p>&nbsp;<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmed-dghaies&show_icons=true&theme=dark&locale=en" alt="ahmed-dghaies" /></p>
 </div>
-<div>
+<div align="center">
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dghaies&theme=dark" alt="ahmed-dghaies" /></p>
+<p><img align="center" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dghaies&theme=dark" alt="ahmed-dghaies" /></p>
 </div>
 
 
