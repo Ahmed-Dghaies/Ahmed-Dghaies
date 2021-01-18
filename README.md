@@ -25,15 +25,13 @@
 
 <div>
 
-<p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-dghaies&show_icons=true&locale=en&layout=compact" alt="ahmed-dghaies" /></p>
+<p><img align="left" width="42.8%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-dghaies&show_icons=true&locale=en&layout=compact" alt="ahmed-dghaies" /></p>
 
 <p>&nbsp;<img align="right" width="52%" src="https://github-readme-stats.vercel.app/api?username=ahmed-dghaies&show_icons=true&theme=dark&locale=en" alt="ahmed-dghaies" /></p>
 </div>
 
----
-
 <div align="center">
-<p><img align="center" width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dghaies&theme=dark" alt="ahmed-dghaies" /></p>
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-dghaies&theme=dark" alt="ahmed-dghaies" /></p>
 </div>
 
 
