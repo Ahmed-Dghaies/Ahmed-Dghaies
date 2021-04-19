@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dghaies</h1>
 <h3 align="center">A passionate Software engineer</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dghaies&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dghaies" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dghaies&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dghaies" /> </p>
 
 - 🔭 I’m currently working on Cynoia platform, [Code-Analyzer](https://github.com/Ahmed-Dghaies/Code-Analyzer)
 
