@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dghaies </h1>
-<h3 align="center">A passionate Software engineer</h3>
+<h3 align="center">A passionate Software engineer at Wintics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-dghaies&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-dghaies" /> </p>
 
-- 🔭 I’m currently working on Cynoia platform, [Code-Analyzer](https://github.com/Ahmed-Dghaies/Code-Analyzer)
+- 🔭 I’m currently working on Wintics Cityvison platform and improving my problem solving skills
 
 - 🌱 I’m currently learning **Django, React**
 
@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with [Age-gender-ethnicity-realtime-Predictor](https://github.com/Ahmed-Dghaies/Age-gender-ethnicity-realtime-Predictor)
 
-- 💬 Ask me about **Vue,Java and python**
+- 💬 Ask me about **React,JavaScript and python**
 
-- 📫 How to reach me **dghais.ahmed7@gmail.com**
+- 📫 How to reach me **dghaies.ahmed7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
