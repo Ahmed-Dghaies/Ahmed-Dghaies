@@ -5,14 +5,6 @@
 
 - 🔭 I’m currently working on Wintics Cityvison platform and improving my problem solving skills
 
-- 🌱 I’m currently learning **Django, React**
-
-- 👯 I’m looking to collaborate on [Code-Analyzer](https://github.com/Ahmed-Dghaies/Code-Analyzer),[Age-gender-ethnicity-realtime-Predictor](https://github.com/Ahmed-Dghaies/Age-gender-ethnicity-realtime-Predictor)
-
-- 🤝 I’m looking for help with [Age-gender-ethnicity-realtime-Predictor](https://github.com/Ahmed-Dghaies/Age-gender-ethnicity-realtime-Predictor)
-
-- 💬 Ask me about **React,JavaScript and python**
-
 - 📫 How to reach me **dghaies.ahmed7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
