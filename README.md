@@ -6,12 +6,6 @@
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <!-- ░░ HERO ░░ -->
 <div align="center">
   <img src="./assets/header.svg" alt="Ahmed Dghaies — Software Engineer" width="100%" />
@@ -26,7 +20,7 @@ td, th {
 
 </div>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 0;">
+<table align="center" width="100%" style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 0;">
   <tr>
     <td width="33.33%" valign="top">
       <h4 align="center">◇ FOCUS</h4>
@@ -55,7 +49,7 @@ td, th {
 
 <div align="center">
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0;">
+<table align="center" style="border-collapse: collapse; border: 0;">
   <tr>
     <td>
       <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Dghaies&hide_border=true&background=0d1220&stroke=1e293b&ring=38bdf8&fire=818cf8&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569" alt="GitHub streak" />
@@ -67,7 +61,7 @@ td, th {
 
 <div align="center">
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0;">
+<table align="center" style="border-collapse: collapse; border: 0;">
   <tr>
     <td><img src="https://komarev.com/ghpvc/?username=Ahmed-Dghaies&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" /></td>
     <td width="12"></td>
