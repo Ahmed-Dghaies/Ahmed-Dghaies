@@ -6,6 +6,12 @@
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <!-- ░░ HERO ░░ -->
 <div align="center">
   <img src="./assets/header.svg" alt="Ahmed Dghaies — Software Engineer" width="100%" />
