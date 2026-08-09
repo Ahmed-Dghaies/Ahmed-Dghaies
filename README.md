@@ -26,7 +26,7 @@ td, th {
 
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 0;">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 0;">
   <tr>
     <td width="33.33%" valign="top">
       <h4 align="center">◇ FOCUS</h4>
