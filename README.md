@@ -133,7 +133,7 @@
 
 **`VS Code`** · **`GitHub`** · **`Docker`** · **`Postman`** · **`Figma`** · **`Photoshop`** · **`Jenkins`** · **`Linux`**
 
-<img src="https://skillicons.dev/icons?i=vscode,github,docker,postman,jenkins,linux,notion,docker&theme=dark" alt="Toolbox" />
+<img src="https://skillicons.dev/icons?i=vscode,github,docker,postman,jenkins,linux,notion&theme=dark" alt="Toolbox" />
 
 </div>
 
@@ -142,9 +142,7 @@
 <!-- ░░ PHILOSOPHY ░░ -->
 <!-- ░░ PROJECTS ░░ -->
 
-### `05` · SELECTED WORK
-
-<!-- Replace the placeholders below with your real projects. Keep it compact. -->
+### `05` · SELECTED PUBLIC WORK
 
 | Project                 | What it is                                                       | Stack          | Link                                                        |
 | ----------------------- | ---------------------------------------------------------------- | -------------- | ----------------------------------------------------------- |
