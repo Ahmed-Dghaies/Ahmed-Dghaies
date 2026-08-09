@@ -20,17 +20,17 @@
 
 </div>
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 0;">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h4 align="center">◇ FOCUS</h4>
       <p align="center">React &amp; Next.js apps<br/>Dashboards &amp; data-viz<br/>Developer tooling</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h4 align="center">◇ CURRENTLY</h4>
       <p align="center">Building interfaces<br/>&amp; software systems<br/>at <strong>Wintics</strong></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.33%" valign="top">
       <h4 align="center">◇ EXPLORING</h4>
       <p align="center">Backend integration<br/>Performance &amp; DX<br/>Clean architecture</p>
     </td>
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0;">
   <tr>
     <td>
       <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Dghaies&hide_border=true&background=0d1220&stroke=1e293b&ring=38bdf8&fire=818cf8&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569" alt="GitHub streak" />
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0;">
   <tr>
     <td><img src="https://komarev.com/ghpvc/?username=Ahmed-Dghaies&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" /></td>
     <td width="12"></td>
@@ -93,7 +93,7 @@
 
 ### `03` · STACK
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0;">
   <tr>
     <td valign="top" width="33%">
       <h4 align="center">FRONTEND</h4>
@@ -160,7 +160,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ahmed-dghaies/"><img src="https://img.shields.io/badge/LinkedIn-‹add--url›-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1220" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ahmed-dghaies/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed Dghaies-38bdf8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1220" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:dghaies.ahmed7@gmail.com"><img src="https://img.shields.io/badge/Email-dghaies.ahmed7@gmail.com-818cf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1220" alt="Email" /></a>
 
