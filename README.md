@@ -113,8 +113,8 @@
     <td valign="top" width="33%">
       <h4 align="center">DATA &amp; DEVOPS</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,jenkins,linux,cypress,&theme=dark" alt="Data and DevOps stack" /><br/>
-        <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Data and DevOps stack" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,jenkins,linux&theme=dark" alt="Data and DevOps stack" /><br/>
+        <img src="https://skillicons.dev/icons?i=git,cypress&theme=dark" alt="Data and DevOps stack" />
       </p>
       <p align="center"><sub>MongoDB · MySQL · Docker · Jenkins · Linux · CI/CD</sub></p>
     </td>
