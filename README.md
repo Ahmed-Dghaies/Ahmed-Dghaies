@@ -24,7 +24,7 @@
 
 <!-- ░░ GITHUB STATISTICS ░░ -->
 
-### `01` · SIGNALS
+### `01` · ACTIVITY
 
 <div align="center">
 
@@ -32,6 +32,9 @@
   <tr>
     <td>
       <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Dghaies&hide_border=true&background=0d1220&stroke=1e293b&ring=38bdf8&fire=818cf8&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=475569" alt="GitHub streak" />
+    </td>
+    <td>
+      <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Dghaies&bg_color=0d1220&color=94a3b8&line=38bdf8&point=818cf8&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Activity%20%C2%B7%20Trailing%2012%20Months" alt="Contribution activity line graph" />
     </td>
   </tr>
 </table>
@@ -53,24 +56,9 @@
 
 ---
 
-<!-- ░░ CONTRIBUTION ACTIVITY ░░ -->
-
-### `02` · ACTIVITY
-
-<div align="center">
-
-<!-- Contribution activity line graph — auto-populated live from GitHub by username -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Dghaies&bg_color=0d1220&color=94a3b8&line=38bdf8&point=818cf8&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Activity%20%C2%B7%20Trailing%2012%20Months" alt="Contribution activity line graph" />
-
-<br/><br/>
-
-</div>
-
----
-
 <!-- ░░ STACK ░░ -->
 
-### `03` · STACK
+### `02` · STACK
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 0;">
   <tr>
@@ -104,7 +92,7 @@
 
 <!-- ░░ TOOLBOX ░░ -->
 
-### `04` · THE TOOLBOX
+### `03` · THE TOOLBOX
 
 <div align="center">
 
@@ -121,7 +109,7 @@
 <!-- ░░ PHILOSOPHY ░░ -->
 <!-- ░░ PROJECTS ░░ -->
 
-### `05` · SELECTED PUBLIC WORK
+### `04` · SELECTED PUBLIC WORK
 
 | Project                 | What it is                                                       | Stack          | Link                                                        |
 | ----------------------- | ---------------------------------------------------------------- | -------------- | ----------------------------------------------------------- |
@@ -133,7 +121,7 @@
 
 <!-- ░░ CONNECT ░░ -->
 
-### `06` · CONNECT
+### `05` · CONNECT
 
 <div align="center">
 
