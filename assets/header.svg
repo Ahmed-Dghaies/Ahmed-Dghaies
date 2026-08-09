@@ -39,8 +39,6 @@
   <!-- big identity -->
   <text x="40" y="112" class="name" font-size="42" fill="#f8fafc">AHMED DGHAIES</text>
   <rect x="40" y="126" width="118" height="4" rx="2" fill="url(#accent)"/>
-  <text x="166" y="112" class="mono" font-size="15" fill="#38bdf8">// software engineer</text>
-
   <!-- terminal lines -->
   <g class="mono" font-size="16">
     <g class="line l1"><text x="40" y="168"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text></g>
