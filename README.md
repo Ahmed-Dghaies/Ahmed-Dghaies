@@ -20,27 +20,6 @@
 
 </div>
 
-<table align="center" width="100%" style="width: 100%; table-layout: fixed; border-collapse: collapse; border: 0;">
-  <tr>
-    <td width="33.33%" valign="top">
-      <h4 align="center">◇ FOCUS</h4>
-      <p align="center">React &amp; Next.js apps<br/>Dashboards &amp; data-viz<br/>Developer tooling</p>
-    </td>
-    <td width="33.33%" valign="top">
-      <h4 align="center">◇ CURRENTLY</h4>
-      <p align="center">Building interfaces<br/>&amp; software systems<br/>at <strong>Wintics</strong></p>
-    </td>
-    <td width="33.33%" valign="top">
-      <h4 align="center">◇ EXPLORING</h4>
-      <p align="center">Backend integration<br/>Performance &amp; DX<br/>Clean architecture</p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <sub><em>Building interfaces, dashboards and software systems with a focus on clean engineering and thoughtful UX.</em></sub>
-</div>
-
 ---
 
 <!-- ░░ GITHUB STATISTICS ░░ -->
